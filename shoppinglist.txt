@@ -1,7 +1,4 @@
 apples
-eggs
-milk
-potatoes
 salad
 bacon
 trash bags
